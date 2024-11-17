@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AddCardPreview">
+        <State />
+      </entry>
+      <entry key="GoogleMapPreview">
+        <State />
+      </entry>
+      <entry key="ReadPreview">
+        <State />
+      </entry>
+      <entry key="TransferVerifyPreview">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="getAccessToken()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Слой фона -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="48dp" />
+            <solid android:color="@color/white" />
+        </shape>
+    </item>
+
+    <!-- Слой изображения -->
+    <item
+        android:left="4dp" android:right="4dp" android:top="4dp" android:bottom="4dp"
+        >
+        <bitmap android:src="@drawable/ic_widget"
+            android:gravity="center"/>
+    </item>
+</layer-list>
